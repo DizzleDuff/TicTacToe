@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="rules">Two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal,
+        vertical, or diagonal row wins the game.</string>
+    <string name="start">Start!</string>
+    <string name="hello">Hello</string>
+    <string name="reset">Reset</string>
+</resources>
